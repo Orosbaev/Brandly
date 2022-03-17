@@ -1,12 +1,35 @@
+
 .navigation {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 90px;
+    width: 1440px;
+    border: 1px solid black;
 }
 
 .nav-ul {
     display: flex;
-    margin: 0 auto;
-    padding: 0 auto;
     list-style: none;
+    width: 478px;
+    height: 18px;
+    margin-top: 38px;
+    margin-left: 796px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    margin-right: 165px;
+}
+.nav-ul li {
+    padding: 25px;
+    color: red;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
+.header-logo {
+    margin-left: 165px;
+    font-size: 48px; 
+    color: red;
+    font-family: "Impact", sans-serif;
 }
