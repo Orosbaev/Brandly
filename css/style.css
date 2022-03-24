@@ -33,3 +33,34 @@
     color: red;
     font-family: "Impact", sans-serif;
 }
+.background {
+    background-image: url(img/img1.png);
+}
+.banner {
+    width: 1440px;
+    height: 544px;
+    margin-bottom: 141px;
+    justify-content: center;
+    align-items: center;
+}
+.spring {
+    width: 796px;
+    height: 30px;
+    border: 1px solid white;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+.up {
+    width: 1098px;
+    height: 60px;
+    border: 1px solid white;
+    text-align: center;
+    margin: 0 auto;
+    color:white;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
